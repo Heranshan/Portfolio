@@ -15,6 +15,4 @@ output:
   postcards::jolla
 ---
  
-I am a classically trained data scientist living in the San Francisco Bay Area. 
-Currently I work on the Oculus team at Facebook. I love talking about baseball, 
-true crime podcasts, and causal inference.
+Hello World! I am an analytics student at the Singapore Management University with a background in R, python, SQL, Tableau and PowerBI. Prior to my data science journey, I spent 3.5 years as an engineer, dealing with production data, dashboards and project management in a high stakes, high pressure environment.  
