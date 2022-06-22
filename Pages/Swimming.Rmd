@@ -1,0 +1,29 @@
+---
+title: "Reaction Time of Olympic Swimmers"
+description: |
+  The main objective of this study is to conduct on-field analytics to understand the factors influencing the RT of the swimmers and what impact this had on the outcome of their races at the Tokyo 2020 Olympics with the use of hypothesis testing.
+  
+author:
+  - name: Heranshan Subramaniam
+    url: https://www.linkedin.com/in/heranshan/
+    affiliation: School of Computing and Information Systems
+    affiliation_url: https://scis.smu.edu.sg/
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, eval = TRUE, message = FALSE,
+                      warning = FALSE, fig.retina = 3)
+```
+
+# Introduction
+
+There have been several studies that have analyzed parameters that affect swimming performance. One area of focus has been swim-start. The kinematic analysis of swim-start performance can be broken down into the reaction time (RT), flight time and entry phase, glide phase, underwater propulsion phase (Vantorre, Chollet, & Seifert, 2014).
+
+The main objective of this study is to conduct on-field analytics to understand the factors influencing the RT of the swimmers and what impact this had on the outcome of their races at the Tokyo 2020 Olympics. This analysis was conducted using JMP Pro 16. Hypothesis testing was used to substantiate findings.
+
+# Final Product
+
+- [Report](https://drive.google.com/file/d/1-wUA8LUiuLUZMlI-sLo-hAwKECl3bJ_r/view?usp=sharing)
+- [Presentation](https://drive.google.com/file/d/1-XDtFfTgADLKGZjXIX1-z_RtxSU4zUZx/view?usp=sharing)

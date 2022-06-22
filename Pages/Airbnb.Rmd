@@ -1,0 +1,29 @@
+---
+title: "Fair Pricing Model for Airbnb in Singapore"
+description: |
+  This study aims to establishing a predictive model that would aid sirbnb hosts in adopting a market calibrated price to enhance their listing’s revenue performance. 
+  
+author:
+  - name: Heranshan Subramaniam
+    url: https://www.linkedin.com/in/heranshan/
+    affiliation: School of Computing and Information Systems
+    affiliation_url: https://scis.smu.edu.sg/
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, eval = TRUE, message = FALSE,
+                      warning = FALSE, fig.retina = 3)
+```
+
+# Introduction
+
+With the rise of the peer to peer (P2P) sharing economy, Airbnb has emerged as a major rival to traditional business in the consumer lodging industry. This study aims to address a significant problem faced by Airbnb host with regards to revenue loss due to inadequate pricing strategy. Though several studies have been conducted, there is still a gap in existing literature with regards to factors influencing Airbnb prices in Singapore. 
+
+This study used data of Airbnb listings in Singapore from September 2021 to address this by building a fair pricing model for Airbnb in Singapore. Simple linear regression, stepwise forward regression, stepwise backward regression, and K-Nearest Neighbour (KNN) models were built and evaluated. The stepwise forward regression yielded the optimum predictive model with an adjusted R-square of 0.60. Number of bedrooms, room type, location and the presence of a pool were found to be the major factors influencing price. Update of the model with post pandemic data, inclusion of other fixed costs such a cleaning and miscellaneous fees and inclusion of host attributes and customer ratings were identified as areas of future work.
+
+# Final Product
+
+- [Research Paper](https://drive.google.com/file/d/1sx2mHYqWmTJHbRzAEUwg5o4wV61BM-ex/view?usp=sharing)
+- [Poster](https://drive.google.com/file/d/1jAlvA5mNypbS8lmsspM4pRGXJgFLNjZ9/view?usp=sharing)

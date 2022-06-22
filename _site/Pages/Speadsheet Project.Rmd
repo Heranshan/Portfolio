@@ -1,0 +1,30 @@
+---
+title: "Towards A Carbon Efficient Singapore"
+description: |
+  In this project my teamates and I explored whether Singapore will be able to meet the CO2 emission targets with current adoption rate of solar energy.
+  
+author:
+  - name: Heranshan Subramaniam
+    url: https://www.linkedin.com/in/heranshan/
+    affiliation: School of Computing and Information Systems
+    affiliation_url: https://scis.smu.edu.sg/
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, eval = TRUE, message = FALSE,
+                      warning = FALSE, fig.retina = 3)
+```
+
+# Introduction
+
+In this project, we designed a simulation model that projects Singapore's CO2 emissions from the four main sources (Industry, Power, Transport and Others) using different indicators/methods for prediction. Following which, we focused on how an increasing deployment of solar PV will help Singapore reduce the contribution of CO2 emissions from power generation and subsequently total CO2 emissions. Eventually, we assessed if Singapore is on its way towards meeting the absolute emissions target of 65 MtCO2e in 2030.
+
+Additionally, we also analyzed the total CO2 emissions based on different conditions through a sensitivity analysis and examine the trade-off between higher electricity prices and lower carbon emissions through a trade-off analysis. 
+
+# Final Product
+
+- [Excel Model](https://drive.google.com/file/d/1siM2Ca41mXhiLwVHA9wHXPsniEhXYhN6/view?usp=sharing) 
+- [Report](https://drive.google.com/file/d/1Z1RdFmDJ18-mmOOl43N03uAm7zOxFEk4/view?usp=sharing)
+- [Presentation](https://docs.google.com/presentation/d/1HYfpN7KpMMZ7RoAQmgjQt5WwKvxsbUNA/edit?usp=sharing&ouid=108640835819333821788&rtpof=true&sd=true)

@@ -1,0 +1,31 @@
+---
+title: "Knowledge Discovery from Commuter Flow Data with Cluster Analysis"
+description: |
+  The main objective of this study is to create Origin-Destination (OD) or Destination-Origin (DO) for the different periods and conduct hierarchical clustering to derive insights on commuter behaviour.
+  
+author:
+  - name: Heranshan Subramaniam
+    url: https://www.linkedin.com/in/heranshan/
+    affiliation: School of Computing and Information Systems
+    affiliation_url: https://scis.smu.edu.sg/
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, eval = TRUE, message = FALSE,
+                      warning = FALSE, fig.retina = 3)
+```
+
+# Introduction
+
+The main objective of this study is to create Origin-Destination (OD) or Destination-Origin (DO) for the different periods and conduct hierarchical clustering to derive insights on commuter behaviour from the data. This analysis was conducted using JMP Pro 16. 
+
+The original data set was extracted from the Passenger Volume by Origin Destination Train Stations for July 2021. In addition, Train Station Chinese Names dataset for data.gov.sg containing station code and MRT station English names was also used. 13 new datasets were created to facilitate the analysis. 
+
+The focus will be on three main periods of travel, namely weekday journey-to-work peak (7-9am), weekday journey-to-home peak (5-7pm) and weekend leisure interaction (11am-1pm). 
+
+# Final Product
+
+- [Report](https://drive.google.com/file/d/1txjqA2ZC4PPIsKZ9gaVVdTio0DWayzKX/view?usp=sharing)
+- [Presentation](https://drive.google.com/file/d/1dzBfSBgIQwPgtQgyKAZBVhvrGkejlE27/view?usp=sharing)

@@ -4,9 +4,50 @@ description: |
   Heranshan Portfolio
 output_dir: "_site"
 navbar:
-  right:
-    - text: "Home"
-      href: index.html
-    - text: "About"
-      href: about.html
+  left:
+    - text: "Data Science Models & Reports"
+      menu:
+      - text: "Commuter Flow Cluster Analysis"
+        href: "Pages/Commuter.html"
+      - text: "Nigeria Water Point Functionality Prediction"
+        href: "Pages/Waterpoint.html"
+      - text: "Reaction Time of Olympic Swimmers Hypothesis Testing"
+        href: "Pages/Swimming.html"
+      - text: "Airbnb Fair Pricing Model"
+        href: "Pages/Airbnb.html"
+      - text: "Museums in Singapore: Visitor Insights"
+        href: "Pages/Museum.html"
+    - text: "Data Visualizations"
+      menu:
+      - text: "Daily Routine"
+        href: "Pages/Daily Routine.html"
+      - text: "Daily Life in the City"
+        href: "Pages/Daily Life in the City.html"
+      - text: "Social Network in the City"
+        href: "Pages/Social Network in City.html"
+    - text: "Tableau"
+      menu:
+      - text: "Superstore Dashboard"
+        href: "https://public.tableau.com/app/profile/heranshan.subramaniam/viz/In-Class_Ex3_Superstore/Dashboard1"
+      - text: "Coffee Chain Dashboard"
+        href: "https://public.tableau.com/app/profile/heranshan.subramaniam/viz/CoffeeChainDashboard_16555311580650/Dashboard1"
+      - text: "Global Population Time Series"
+        href: "https://public.tableau.com/app/profile/heranshan.subramaniam/viz/GlobalPopulation-YoungvsOld/Dashboard1"  
+      - text: "Global GDP Breakdown"
+        href: "https://public.tableau.com/app/profile/heranshan.subramaniam/viz/GlobalGDPBreakdown/GlobalGDP"
+      - text: "Singapore Arrival Data"
+        href: "https://public.tableau.com/app/profile/heranshan.subramaniam/viz/SingaporeArrivalData2010-2019/Dashboard1"
+      - text: "Singapore Population Gender Distribution"
+        href: "https://public.tableau.com/app/profile/heranshan.subramaniam/viz/SingaporePopulationGenderDistibutionbyPlanningArea/SingaporePopDistribution"
+      - text: "Singapore Property Transactions"
+        href: "https://public.tableau.com/app/profile/heranshan.subramaniam/viz/SingaporePropertyTransactionMedianUnitPrice/Dashboard1"
+      - text: "VAST Challenge 2022 - Pub Visitorship"
+        href: "https://public.tableau.com/app/profile/heranshan.subramaniam/viz/VASTChallenge2022PubVisitorship/Dashboard1"
+      - text: "Singapore Pools Map"
+        href: "https://public.tableau.com/app/profile/heranshan.subramaniam/viz/SGPoolsPointSymbolMap/PointSymbolMap"
+    - text: "Excel Modelling"
+      menu:
+      - text: "Carbon Efficient Singapore"
+        href: "Pages/Spreadsheet.html"
+        
 output: distill::distill_article

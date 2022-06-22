@@ -1,0 +1,32 @@
+---
+title: "Museums in Singapore: Visitor Insights"
+description: |
+  The objective of this project is to conduct exploratory data analysis on NHB museum visitors over the past 3.5 years using applied statisitcal analysis with R, to examine the extent to which museum visits have been (i) accessible, (ii) enjoyable and (iii) inclusive. 
+  
+author:
+  - name: Heranshan Subramaniam
+    url: https://www.linkedin.com/in/heranshan/
+    affiliation: School of Computing and Information Systems
+    affiliation_url: https://scis.smu.edu.sg/
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, eval = TRUE, message = FALSE,
+                      warning = FALSE, fig.retina = 3)
+```
+
+# Introduction
+
+The objective of this project is to conduct exploratory data analysis on National Heritage Board (NHB) museum visitors over the past 3.5 years, to examine the extent to which museum visits have been (i) accessible, (ii) enjoyable and (iii) inclusive. 
+
+The project also evaluates the impact of COVID-19 on museum visitorship. An interactive R Shiny app was designed to allow members of the public to understand the visitor profile of each museum, as well as plan their visits to avoid crowded timings in a COVID-19 endemic ‘new normal’. Today, there is no such interactive interface available to NHB.
+
+However, due to the sensitive nature of the data, the R Shiny app is not shared in this portfolio. 
+
+
+# Final Product
+
+- [Report](https://drive.google.com/file/d/1j8JTxtUn0QfKzET_c5vj6jfXUYdjdaZL/view?usp=sharing)
+- [Presentation](https://drive.google.com/file/d/1vs7SLxToNP88dIK4hxDqPE7tQsAISRRn/view?usp=sharing)

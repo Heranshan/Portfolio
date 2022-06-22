@@ -1,15 +1,20 @@
 ---
-title: "Heranshan Portfolio"
-description: |
-  Welcome to the website. I hope you enjoy it!
+title: "Heranshan Subramaniam"
+image: "shan.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/heranshan/"
+  - label: Resume
+    url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/Heranshan"
+  - label: Email
+    url: "mailto:heranshan@gmail.com"
 site: distill::distill_website
+output:
+  postcards::jolla
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
-
-```
-
+ 
+I am a classically trained data scientist living in the San Francisco Bay Area. 
+Currently I work on the Oculus team at Facebook. I love talking about baseball, 
+true crime podcasts, and causal inference.

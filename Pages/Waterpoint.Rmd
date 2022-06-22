@@ -1,0 +1,29 @@
+---
+title: "Data Analytics for Good - Nigeria Water Point Functionality Prediction Model"
+description: |
+  This study utilizes data from Water Point Data Exchange (WPdx) for Nigeria to create a model to predict ‘Not Functional’ water points.
+  
+author:
+  - name: Heranshan Subramaniam
+    url: https://www.linkedin.com/in/heranshan/
+    affiliation: School of Computing and Information Systems
+    affiliation_url: https://scis.smu.edu.sg/
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, eval = TRUE, message = FALSE,
+                      warning = FALSE, fig.retina = 3)
+```
+
+# Introduction
+
+Water is a key resource to the sustainment of life. However, per UN-Water 2 billion people today lack access to safe drinking water. In Nigeria, about 60 million Nigerians live without access to drinking water. This remains a major contributor to high morbidity and mortality rates among children below five. 
+
+Ensuring sustainable water services in rural community is one of the solutions proposed by UNICEF to tackle the water, sanitation and hygiene challenge facing Nigeria. This study utilizes data from Water Point Data Exchange (WPdx) for Nigeria to create a model to predict ‘Not Functional’ water points to enable this. This analysis was conducted using JMP Pro 16.  
+
+# Final Product
+
+- [Report](https://drive.google.com/file/d/1qgIntOF9LaQ5_J-7vMd7SL8GtbiS-WjR/view?usp=sharing)
+- [Presentation](https://drive.google.com/file/d/1zNJ8ygv8vZO9gAsD9wPihNWgt7L7zVlW/view?usp=sharing)
