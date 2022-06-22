@@ -15,4 +15,4 @@ output:
   postcards::jolla
 ---
  
-Hello World! I am an analytics student at the Singapore Management University with a background in R, python, SQL, Tableau and PowerBI. Prior to my data science journey, I spent 3.5 years as an engineer, dealing with production data, dashboards and project management in a high stakes, high pressure environment.  
+Hello World! I am an analytics student at the Singapore Management University with a background in R, python, SQL, JMP, Tableau and PowerBI. Prior to my data science journey, I spent 3.5 years as an engineer, dealing with production data, dashboards and project management in a high stakes, high pressure environment.  
