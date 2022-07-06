@@ -25,6 +25,10 @@ navbar:
         href: "Pages/Daily Life in the City.html"
       - text: "Social Network in the City"
         href: "Pages/Social Network in City.html"
+    - text: "RShiny App"
+      menu:
+      - text: "Patterns of Life"
+      - href: "https://isss608-project-group5.netlify.app/"
     - text: "Tableau"
       menu:
       - text: "Superstore Dashboard"
@@ -45,6 +49,10 @@ navbar:
         href: "https://public.tableau.com/app/profile/heranshan.subramaniam/viz/VASTChallenge2022PubVisitorship/Dashboard1"
       - text: "Singapore Pools Map"
         href: "https://public.tableau.com/app/profile/heranshan.subramaniam/viz/SGPoolsPointSymbolMap/PointSymbolMap"
+      - text: "Singapore Stocks Bolinger Bands"
+        href: "https://public.tableau.com/app/profile/heranshan.subramaniam/viz/SingaporeStocksBolingerBands/BolingerBands"
+      - text: "Singapore Stocks Candlestick Chart"
+        href: "https://public.tableau.com/app/profile/heranshan.subramaniam/viz/SingaporeStocksCandlestickChart/CandlestickChart"
     - text: "Excel Modelling"
       menu:
       - text: "Carbon Efficient Singapore"
