@@ -28,7 +28,7 @@ navbar:
     - text: "RShiny App"
       menu:
       - text: "Patterns of Life"
-      - href: "https://isss608-project-group5.netlify.app/"
+        href: "https://isss608-project-group5.netlify.app/"
     - text: "Tableau"
       menu:
       - text: "Superstore Dashboard"
