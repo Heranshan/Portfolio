@@ -20,11 +20,11 @@ navbar:
     - text: "Data Visualizations"
       menu:
       - text: "Daily Routine"
-        href: "Pages/Daily Routine.html"
+        href: "Pages/Daily-Routine.html"
       - text: "Daily Life in the City"
-        href: "Pages/Daily Life in the City.html"
+        href: "Pages/Daily-Life-in-the-City.html"
       - text: "Social Network in the City"
-        href: "Pages/Social Network in City.html"
+        href: "Pages/Social-Network-in-City.html"
     - text: "RShiny App"
       menu:
       - text: "Patterns of Life"
